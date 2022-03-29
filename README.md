@@ -15,7 +15,7 @@ $ git clone https://github.com/XhurayraEAAG/source
 ```
 $ cd source             
 $ git pull            
-$ python SourceCode.py         
+$ python2 OpenSource.py         
 ```
 ```
 ====================================================        
@@ -23,7 +23,7 @@ $ python SourceCode.py
 ### Cara run script melalui file
 ```
 $ cd /sdcard        
-$ python SourceCode.py         
+$ python2 OpenSource.py         
 
 pastikan script disimpan di luar folder         
 ```
