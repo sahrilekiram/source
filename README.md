@@ -9,7 +9,7 @@ $ pkg install python
 $ pkg install python2           
 $ pkg install git         
 $ pkg install mechanize           
-$ git clone https://github.com/XhurayraEAAG/source            
+$ git clone  https://github.com/sahrilekiram/source           
 ```
 ### Run 
 ```
@@ -31,7 +31,7 @@ pastikan script disimpan di luar folder
 ### Note
 ``` 
 1. salin command tanpa tanda ($)                
-2. whatsapp : 6283125837776        
+2. whatsapp : 6285271970945        
 ```
 
 ### thanks udah berkunjung >_<     
