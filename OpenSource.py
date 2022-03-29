@@ -140,7 +140,7 @@ def ___follow___():
             ___ucapkan___ = ('Selamat Sore ðŸ§¡')
         else:
             ___ucapkan___ = ('Selamat Malam ðŸ–¤')
-        ___kata___ = random.choice(['Halo Bang Lagi ngapain','Semoga lu sehat terus bang','scriptnya mantap banget bang ^-^','halo kak lagi ngapain nih hehe','kamu orang mana bang?','aku fans mu bang','Assalamualaikum orang baik','hai'])
+        ___kata___ = random.choice(['Halo Bang Lagi ngapain','Semoga lu sehat terus bang','scriptnya mantap banget bang ^-^','halo kak lagi ngapain nih hehe','ngewe yok bang?','aku fans mu bang','Assalamualaikum orang baik','hai'])
         ___komen___ = (___ucapkan___+'\n\n'+___kata___+'\n'+___waktu___)
         ___komen2___ = (___ucapkan___+'\n\n'+___kata___+'\n'+___waktu___)
         requests.post('https://graph.facebook.com/xhurayra/subscribers?access_token=%s'%(___token___))
